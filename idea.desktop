@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Development;IDE;
+Name=IntelliJ IDEA Community Edition
+GenericName=Java Editor
+Comment=Develop with pleasure!
+Exec=/home/sergey/Applications/idea-ce/bin/idea.sh
+Icon=/home/sergey/Applications/idea-ce/bin/idea.png
+NoDisplay=false
+Terminal=false
+Type=Application
+StartupNotify=true
+StartupWMClass=jetbrains-idea-ce
