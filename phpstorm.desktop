@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Development;IDE;
+Comment=Lightweight and Smart PHP IDE
+Exec=/home/sergey/Applications/PhpStorm/bin/phpstorm.sh
+GenericName=PHP IDE
+Icon=/home/sergey/Applications/PhpStorm/bin/webide.png
+Name=PhpStorm
+NoDisplay=false
+Terminal=false
+Type=Application
+Version=5.0
+StartupNotify=true
+StartupWMClass=jetbrains-phpstorm
